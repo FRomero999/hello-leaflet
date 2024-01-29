@@ -1,0 +1,20 @@
+[
+    {
+       "nombre": "Cesur Málaga Este",
+       "ciclos": ["DAM","DAW","ASIR","TCAE","SMR"],
+       "lat": 36.719227,
+       "lon":-4.363912
+    },
+    {
+       "nombre": "Cesur PTA",
+       "ciclos": ["TCAE","FARMACIA","DISEÑO"],
+       "lat": 36.736820,
+       "lon": -4.556495
+    },
+    {
+       "nombre": "Cesur Teatinos",
+       "ciclos": ["MARKETING","COMERCIO","TECO"],
+       "lat": 36.717749,
+       "lon":-4.461176
+    }
+]
