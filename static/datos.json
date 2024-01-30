@@ -2,9 +2,9 @@
     {
        "nombre": "Cesur Málaga Este",
        "ciclos": ["DAM","DAW","ASIR","TCAE","SMR"],
-       "lat": 36.719227,
-       "lon":-4.363912,
-       "link":"#",
+       "lat":36.71998507144918, 
+       "lon":-4.365667195862367,
+       "link":"https://www.cesurformacion.com/centros/malaga/este",
        "imagen": "https://picsum.photos/400?1"
     },
     {
@@ -12,7 +12,7 @@
        "ciclos": ["TCAE","FARMACIA","DISEÑO"],
        "lat": 36.736820,
        "lon": -4.556495,
-       "link":"#",
+       "link":"https://www.cesurformacion.com/centros/malaga/pta",
        "imagen": "https://picsum.photos/400?2"
     },
     {
@@ -20,7 +20,24 @@
        "ciclos": ["MARKETING","COMERCIO","TECO"],
        "lat": 36.717749,
        "lon":-4.461176,
-       "link":"#",
+       "link":"https://www.cesurformacion.com/centros/malaga/teatinos",
        "imagen": "https://picsum.photos/400?3"       
-    }
+    },
+    {
+      "nombre": "Cesur Sevilla Cartuja ",
+      "ciclos": ["MARKETING","COMERCIO","TECO"],
+      "lat": 37.416283,
+      "lon":-6.005799,
+      "link":"https://www.cesurformacion.com/centros/sevilla/cartuja",
+      "imagen": "https://picsum.photos/400?3"       
+   },
+   {
+      "nombre": "Cesur Murcia",
+      "ciclos": ["MARKETING"],
+      "lat": 37.99081752884472,
+      "lon":-1.1154027234736408,
+      "link":"https://www.cesurformacion.com/centros/murcia/centro",
+      "imagen": "https://picsum.photos/400?3"       
+   }       
+
 ]
