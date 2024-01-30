@@ -3,18 +3,24 @@
        "nombre": "Cesur Málaga Este",
        "ciclos": ["DAM","DAW","ASIR","TCAE","SMR"],
        "lat": 36.719227,
-       "lon":-4.363912
+       "lon":-4.363912,
+       "link":"#",
+       "imagen": "https://picsum.photos/400?1"
     },
     {
        "nombre": "Cesur PTA",
        "ciclos": ["TCAE","FARMACIA","DISEÑO"],
        "lat": 36.736820,
-       "lon": -4.556495
+       "lon": -4.556495,
+       "link":"#",
+       "imagen": "https://picsum.photos/400?2"
     },
     {
        "nombre": "Cesur Teatinos",
        "ciclos": ["MARKETING","COMERCIO","TECO"],
        "lat": 36.717749,
-       "lon":-4.461176
+       "lon":-4.461176,
+       "link":"#",
+       "imagen": "https://picsum.photos/400?3"       
     }
 ]

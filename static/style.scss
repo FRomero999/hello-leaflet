@@ -1,8 +1,52 @@
 html,body{
     height:100vh;
+    padding:0;
+    margin:0;
 }
 
 #mapa{
     height:100%;
     width:100%;
+}
+
+#geolocator{
+    position:fixed;
+    padding:0.5rem;
+    box-shadow: 0 0 4px 1px black;
+    bottom:10px;
+    right:10px;
+    z-index:9999;
+}
+
+
+#info{
+    position:fixed;
+    padding:0.5rem;
+    box-shadow: 0 0 4px 1px black;
+    bottom:10px;
+    left:10px;
+    z-index:9999;
+    width:300px;
+    background-color: lightblue;
+
+    display:grid;
+    grid-template-columns: 1fr 50px 100px;
+    grid-template-rows: auto auto auto;
+    grid-template-areas: 
+        'titulo distancia imagen'
+        'desc desc imagen'
+        'enlace enlace imagen';
+    align-items: center;
+    
+    h3{ grid-area: titulo;  }
+    span{ grid-area: distancia;}
+    img{ 
+        grid-area: imagen; 
+        height:100%; 
+        width:100%;
+        object-fit: cover;
+    }
+    p{ grid-area: desc;}
+    a{ grid-area: enlace;}
+
 }
